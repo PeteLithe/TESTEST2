@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ProjectInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identity>
+    <Id>9822163A0AD445DAA9849796560069ED</Id>
+    <Version>38</Version>
+    <Name>Verita_Capture</Name>
+  </Identity>
+  <Category>
+    <Id>344A414418D94476B6D048CBC2580B72</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Verita-Tungston</Name>
+    <Description />
+  </Category>
+  <Name>Verita_Capture</Name>
+  <Description />
+  <Status>Released</Status>
+  <LastModifiedProjectFile>2025-04-08T08:33:31.507</LastModifiedProjectFile>
+  <LastModifiedProjectFolderZip>2025-03-04T10:15:14.86</LastModifiedProjectFolderZip>
+  <LastModifiedUser>
+    <Id>A352BC1D13794DDC9252C458EAF843DB</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name />
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LastModifiedUser>
+  <OnlineLearningFolderId />
+  <ProjectType>Shared</ProjectType>
+  <IsOnlineLearningEnabled>true</IsOnlineLearningEnabled>
+  <IsSeparationEnabled>false</IsSeparationEnabled>
+  <LockedByModule>None</LockedByModule>
+  <IsSimpleProject>false</IsSimpleProject>
+  <TrainingSetPath />
+  <UsedLicenseFeatures>Clarity AzureRecognitionWithTungstenKey</UsedLicenseFeatures>
+  <ConfigurationSet>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;ConfigSetFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Name&gt;DefaultTAConfigSet&lt;/Name&gt;
+  &lt;Groups&gt;
+    &lt;ConfigSetGroup&gt;
+      &lt;Name&gt;OnlineLearning&lt;/Name&gt;
+      &lt;Objects /&gt;
+      &lt;Properties&gt;
+        &lt;ConfigSetProperty&gt;
+          &lt;Name&gt;Path&lt;/Name&gt;
+          &lt;Value&gt;C:\ProgramData\Kofax Transformation\OnlineLearning\project&lt;/Value&gt;
+          &lt;Index&gt;0&lt;/Index&gt;
+        &lt;/ConfigSetProperty&gt;
+      &lt;/Properties&gt;
+    &lt;/ConfigSetGroup&gt;
+  &lt;/Groups&gt;
+&lt;/ConfigSetFile&gt;</ConfigurationSet>
+  <IsReadOnly>false</IsReadOnly>
+  <DoUpgrade>false</DoUpgrade>
+  <CustomVersion>0</CustomVersion>
+  <IsLimitedToOnlineLearning>false</IsLimitedToOnlineLearning>
+  <IsCaptureSolutionProject>false</IsCaptureSolutionProject>
+  <QuickClassificationBaseDocTypeId>F1CCD33C0DE14001918E9818FA69ABFB</QuickClassificationBaseDocTypeId>
+  <SourceControlStatus>NotInSourceControl</SourceControlStatus>
+</ProjectInfo>

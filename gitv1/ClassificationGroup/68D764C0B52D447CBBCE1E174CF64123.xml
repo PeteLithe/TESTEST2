@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ClassificationGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identity>
+    <Id>68D764C0B52D447CBBCE1E174CF64123</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Version>11</Version>
+    <Name>CapTest1</Name>
+  </Identity>
+  <Name>CapTest1</Name>
+  <Description />
+  <Status>Released</Status>
+  <IsShared>true</IsShared>
+  <Category>
+    <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Default Category</Name>
+    <Description />
+  </Category>
+  <DocumentGroups>
+    <DocumentGroupIdentity>
+      <Id>68D764C0B52D447CBBCE1E174CF64123</Id>
+      <AutomaticallyPopulate>true</AutomaticallyPopulate>
+      <Version>11</Version>
+      <Name>CapTest1</Name>
+    </DocumentGroupIdentity>
+  </DocumentGroups>
+  <LastModifiedDate>2024-07-17T15:13:38.913</LastModifiedDate>
+  <LastModifiedUser>
+    <Id>FE9CC44B98BA4A36ADDB30D822699177</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LastModifiedUser>
+  <LockedByModule>None</LockedByModule>
+  <ClassificationOnlineLearningEnabled>true</ClassificationOnlineLearningEnabled>
+  <ClassificationMaxDocCount>2000</ClassificationMaxDocCount>
+  <ClassificationOnlineLearningFolderId>ADB4720EBDA84F75BB58B1B000E2EC0C</ClassificationOnlineLearningFolderId>
+  <ResourceAccessTokens>
+    <ResourceAccess>
+      <ResourceIdentity>
+        <Id>7DF43CCDF24611D2804B00104B71BD15</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>Everyone</Name>
+        <ResourceType>GroupOfWorkers</ResourceType>
+        <EmailAddress />
+        <UserId />
+        <ManagerialLevel>0</ManagerialLevel>
+      </ResourceIdentity>
+      <AccessType>MaintenanceAccess</AccessType>
+      <PermissionType>FullControl</PermissionType>
+    </ResourceAccess>
+  </ResourceAccessTokens>
+  <ResourcePermissionType>NoAccess</ResourcePermissionType>
+  <OverwriteDocumentTypes>false</OverwriteDocumentTypes>
+  <OverwrittenDocumentTypes />
+</ClassificationGroup>

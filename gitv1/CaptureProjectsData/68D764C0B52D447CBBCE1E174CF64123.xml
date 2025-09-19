@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ProjectInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identity>
+    <Id>68D764C0B52D447CBBCE1E174CF64123</Id>
+    <Version>11</Version>
+    <Name>CapTest1</Name>
+  </Identity>
+  <Category>
+    <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Default Category</Name>
+    <Description />
+  </Category>
+  <Name>CapTest1</Name>
+  <Description />
+  <Status>Released</Status>
+  <LastModifiedProjectFile>2024-07-17T15:13:38.913</LastModifiedProjectFile>
+  <LastModifiedProjectFolderZip>2024-07-17T15:13:38.067</LastModifiedProjectFolderZip>
+  <LastModifiedUser>
+    <Id>FE9CC44B98BA4A36ADDB30D822699177</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name />
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LastModifiedUser>
+  <OnlineLearningFolderId>ADB4720EBDA84F75BB58B1B000E2EC0C</OnlineLearningFolderId>
+  <ProjectType>Shared</ProjectType>
+  <IsOnlineLearningEnabled>true</IsOnlineLearningEnabled>
+  <IsSeparationEnabled>false</IsSeparationEnabled>
+  <LockedByModule>None</LockedByModule>
+  <IsSimpleProject>false</IsSimpleProject>
+  <TrainingSetPath />
+  <UsedLicenseFeatures>None</UsedLicenseFeatures>
+  <IsReadOnly>false</IsReadOnly>
+  <DoUpgrade>false</DoUpgrade>
+  <CustomVersion>0</CustomVersion>
+  <IsLimitedToOnlineLearning>false</IsLimitedToOnlineLearning>
+  <IsCaptureSolutionProject>true</IsCaptureSolutionProject>
+  <QuickClassificationBaseDocTypeId>E5C141B0F9804CDD9E5CA81D7537EF5F</QuickClassificationBaseDocTypeId>
+  <SourceControlStatus>NotInSourceControl</SourceControlStatus>
+</ProjectInfo>

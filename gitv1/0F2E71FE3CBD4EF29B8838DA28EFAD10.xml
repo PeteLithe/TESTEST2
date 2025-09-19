@@ -1,0 +1,1446 @@
+<?xml version="1.0" encoding="utf-16"?>
+<SpaPackage xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SpaPackageIdentity>
+    <Id>0F2E71FE3CBD4EF29B8838DA28EFAD10</Id>
+    <Name>gitv1</Name>
+    <Version>1</Version>
+  </SpaPackageIdentity>
+  <Description />
+  <CategoryIdentity>
+    <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Default Category</Name>
+    <Description />
+  </CategoryIdentity>
+  <LastModifiedDateTime>2025-09-19T08:55:20.267</LastModifiedDateTime>
+  <LastModifiedResource>
+    <Id>FE9CC44B98BA4A36ADDB30D822699177</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Pete</Name>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LastModifiedResource>
+  <Data>
+    <Processes>
+      <ProcessIdentity>
+        <Id>ABE601C76C51436EA17142A056EFDFEC</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>1</Version>
+        <Name>Copilot For Quick Capture Demo</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
+        <Id>A073F7E3A754159439C3BCF6E1DBBECC</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>1</Version>
+        <Name>Bankrupcy_Verification</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
+        <Id>FEB8AC82AAB2D1D803E9EA61F652B17D</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>9</Version>
+        <Name>TranslateProcess</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
+        <Id>30F360953A75EED8D2E0AD19810AD1B5</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>1</Version>
+        <Name>OtherDocProcess</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
+        <Id>38B143893F275D0D202E0FFFAF2A18D2</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>3</Version>
+        <Name>Verita_Get_Email_Questions</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
+        <Id>67D0F145671206E3DE931768AFC34199</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>31</Version>
+        <Name>AutoEmailReply</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
+        <Id>8A929F49C89E7EBC246E4B4C9388BDF6</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>2</Version>
+        <Name>New process</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
+        <Id>99DBD5699726E7D82544647205F378DA</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>2</Version>
+        <Name>SignDoc Test</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
+        <Id>A57D317216D24DDF83D8231F862114A8</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>3</Version>
+        <Name>Image Conversion</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
+        <Id>C51F1F2AEB15445499D305276F8A17D3</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>1</Version>
+        <Name>Home Loan Application Process</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
+        <Id>D82B360A49AB007538D84EB4D7911BB7</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>15</Version>
+        <Name>Claude</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
+        <Id>9CD43289927984AA3ACF215A70ACBDB0</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>12</Version>
+        <Name>TP_UpdateActivity</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
+        <Id>6B60E386214140E78A0982AA19C8E917</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>6</Version>
+        <Name>CapTest1</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
+        <Id>88CB11B2D1965AF60425043795156011</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>8</Version>
+        <Name>EmptyProcess</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
+        <Id>8BAF9814CFFF1AF55CC5AA9493B521D1</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>7</Version>
+        <Name>test_import</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
+        <Id>931B53760F002BFE3A53431261D0F0FB</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>1</Version>
+        <Name>man1</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
+        <Id>971B60A53A73CA972F04725E03C0C7B4</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>11</Version>
+        <Name>Empty2</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
+        <Id>3916DC3B5F409EF24921A709E5B12CE8</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>5</Version>
+        <Name>TP1</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
+        <Id>3A55A96FFF399BB1D8357AADD8920D56</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>7</Version>
+        <Name>EmptyException</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
+        <Id>3BFCB72A01C88FD1A9FF39FF6F0DC93A</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>7</Version>
+        <Name>Temp_Sec</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
+        <Id>4228510FAF663E5F6A4DDC3341B28ADA</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>2</Version>
+        <Name>CreateAndMove</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
+        <Id>4A120FFB25E2D4140F83B511FA66C8C9</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>1</Version>
+        <Name>LI1</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
+        <Id>32E64842FCFB2D73B08892AE5350AD28</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>3</Version>
+        <Name>AITest</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
+        <Id>163653835D521A5E5C5274CC242F96EF</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>2</Version>
+        <Name>tp2</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
+        <Id>245A73BBCFDA970D3E624B8589E7F483</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>3</Version>
+        <Name>checkfile</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
+        <Id>2701AB3025E44760ADB5F3A2921EB69B</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>2</Version>
+        <Name>CapTest2</Name>
+      </ProcessIdentity>
+    </Processes>
+    <ProcessExportOption>
+      <ExportResources>false</ExportResources>
+      <ExportGroupResourceMembers>false</ExportGroupResourceMembers>
+      <ExportResourcesExtensions>false</ExportResourcesExtensions>
+      <ExportCategories>false</ExportCategories>
+      <WithCategoryParentage>false</WithCategoryParentage>
+      <GeneralizedExport>false</GeneralizedExport>
+      <ExportDotNetReferencesWithPath>true</ExportDotNetReferencesWithPath>
+      <ExportCaseFragments>false</ExportCaseFragments>
+      <ExportTemplateSkins>true</ExportTemplateSkins>
+      <ExportExtractionClassificationData>true</ExportExtractionClassificationData>
+      <ExportGlobalDataModels>false</ExportGlobalDataModels>
+      <ExportProcessDataModels>false</ExportProcessDataModels>
+      <ExportType>None</ExportType>
+      <Version>0</Version>
+      <ExportServerVariables>true</ExportServerVariables>
+      <XmlExpressionVariables />
+      <PreloadScript>1</PreloadScript>
+      <SleepDuration>0</SleepDuration>
+      <CategoryIds />
+      <ProcessDocument>false</ProcessDocument>
+      <ProcessViewer>false</ProcessViewer>
+      <DotNetActivityType>0</DotNetActivityType>
+      <Projects />
+      <AllProcessVariables />
+      <ExportOnlyDocumentGroupIdentityDetails>false</ExportOnlyDocumentGroupIdentityDetails>
+      <SiteDetailsRequired>false</SiteDetailsRequired>
+      <CmisSiteDetailsRequired>false</CmisSiteDetailsRequired>
+      <DocumentTemplates />
+      <Assets />
+      <PerceptiveSiteDetailsRequired>false</PerceptiveSiteDetailsRequired>
+      <IncludeExportConnectorMappings>false</IncludeExportConnectorMappings>
+      <IncludeDocumentTypeRetentionPolicy>false</IncludeDocumentTypeRetentionPolicy>
+      <ProcessDataModels />
+      <IsSpaExport>false</IsSpaExport>
+      <ProcessType>BusinessProcess</ProcessType>
+      <ProtectedItems />
+      <ExportPageRenditions>false</ExportPageRenditions>
+      <ExportReportingTags>false</ExportReportingTags>
+      <ExportTestPlans>false</ExportTestPlans>
+      <IncludeProcessAssociationsInPackage>false</IncludeProcessAssociationsInPackage>
+      <IsGitExport>true</IsGitExport>
+      <ExcludeCaptureProjectTrainingSets>false</ExcludeCaptureProjectTrainingSets>
+    </ProcessExportOption>
+    <WorkAllocationRules />
+    <Skins />
+    <BusinessRules>
+      <BusinessRuleIdentity>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Id>B9EAE9F6F0124E9692A47D071317E59D</Id>
+        <Name>BR_UpdateActivityResource</Name>
+        <Version>2</Version>
+        <ProcessId />
+      </BusinessRuleIdentity>
+    </BusinessRules>
+    <Assets>
+      <AssetIdentity>
+        <Id>61244E5906924759A1ED5840FE40A64B</Id>
+        <Name>JanainnaVeritaLogo.jpg</Name>
+        <AssetType>Image</AssetType>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <StorageId>0</StorageId>
+      </AssetIdentity>
+      <AssetIdentity>
+        <Id>ADB9D5312CAA45AEA1C48E7AFD837C35</Id>
+        <Name>New.png</Name>
+        <AssetType>Image</AssetType>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <StorageId>0</StorageId>
+      </AssetIdentity>
+      <AssetIdentity>
+        <Id>C5C8B0EBA92E4903B25EEA493C75759F</Id>
+        <Name>Exception.png</Name>
+        <AssetType>Image</AssetType>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <StorageId>0</StorageId>
+      </AssetIdentity>
+      <AssetIdentity>
+        <Id>C9E532DE58A9439C9F59380AE97C2B9D</Id>
+        <Name>Search_Icon_Gray.png</Name>
+        <AssetType>Image</AssetType>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <StorageId>0</StorageId>
+      </AssetIdentity>
+      <AssetIdentity>
+        <Id>F56BF0CB617F4795B00269DBC3E9C82E</Id>
+        <Name>colored_view_icon.png</Name>
+        <AssetType>Image</AssetType>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <StorageId>0</StorageId>
+      </AssetIdentity>
+    </Assets>
+    <Forms>
+      <FormIdentity>
+        <Id>17BD326F133D48CF9CEAC0C13E240BAF</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>CapTest2_Validation</Name>
+        <Version>1</Version>
+      </FormIdentity>
+      <FormIdentity>
+        <Id>1F1E0330D0CA4A3F932533E384FCA8BF</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>Home Loan Application ProcessCNJ</Name>
+        <Version>1</Version>
+      </FormIdentity>
+      <FormIdentity>
+        <Id>349F96D759154459B2FBFD9CF8D16A8F</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>ProterraDocs_Validation_xx</Name>
+        <Version>43</Version>
+      </FormIdentity>
+      <FormIdentity>
+        <Id>34FE9DBD99884722A7C72A67EBE463A2</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>ClaimsRelatedDocs</Name>
+        <Version>7</Version>
+      </FormIdentity>
+      <FormIdentity>
+        <Id>461CE5A7F1F34E9C9B389A5EC8CAC133</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>VeritaHeader</Name>
+        <Version>11</Version>
+      </FormIdentity>
+      <FormIdentity>
+        <Id>8141DA5ED3264275BA67295AE0901B0F</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>CapTest1_Validation</Name>
+        <Version>1</Version>
+      </FormIdentity>
+      <FormIdentity>
+        <Id>A2EAAAC9A0F34F5BA28F29A8E9402151</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>CapTest2_Scan</Name>
+        <Version>1</Version>
+      </FormIdentity>
+      <FormIdentity>
+        <Id>AC2C77BE6753484BB2A73242F69A0D68</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>MVCDocs_Validation_xx</Name>
+        <Version>26</Version>
+      </FormIdentity>
+      <FormIdentity>
+        <Id>CAF84DC32AA7432A9DC6E471A43E40A0</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>CapTest1_Scan3</Name>
+        <Version>1</Version>
+      </FormIdentity>
+      <FormIdentity>
+        <Id>CCAF100BC35047F0BC179106D42935B3</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>ViewProterraRow</Name>
+        <Version>9</Version>
+      </FormIdentity>
+      <FormIdentity>
+        <Id>DBAC4F11A41E4D77B39FB588ED70C7C3</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>Copilot For Quick Capture Demo_Scan</Name>
+        <Version>1</Version>
+      </FormIdentity>
+      <FormIdentity>
+        <Id>EA5547A5BA59475986760D335C3DFC69</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>ContractLookup</Name>
+        <Version>4</Version>
+      </FormIdentity>
+      <FormIdentity>
+        <Id>F7A10B9E31F64FC484C8F38E7CBE77E1</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>ClaimsDocs_Validation_xx</Name>
+        <Version>69</Version>
+      </FormIdentity>
+      <FormIdentity>
+        <Id>FFA4355FC2AD42B59192BE5910BC647B</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>Bankrupcy_Verification_Validation</Name>
+        <Version>3</Version>
+      </FormIdentity>
+    </Forms>
+    <FormTemplates />
+    <FormExportOptions>
+      <ExportHeader>false</ExportHeader>
+      <ExportNavigation>false</ExportNavigation>
+      <ExportGlobalVariables>true</ExportGlobalVariables>
+      <ExportWebServices>false</ExportWebServices>
+      <ExportBusinessRules>false</ExportBusinessRules>
+      <ExportSecurityTokens>false</ExportSecurityTokens>
+      <ExportSecurityRoles>false</ExportSecurityRoles>
+      <ExportRoleMembers>false</ExportRoleMembers>
+      <ProcessExportOptions>
+        <ExportResources>false</ExportResources>
+        <ExportGroupResourceMembers>false</ExportGroupResourceMembers>
+        <ExportResourcesExtensions>false</ExportResourcesExtensions>
+        <ExportCategories>false</ExportCategories>
+        <WithCategoryParentage>false</WithCategoryParentage>
+        <GeneralizedExport>false</GeneralizedExport>
+        <ExportDotNetReferencesWithPath>true</ExportDotNetReferencesWithPath>
+        <ExportCaseFragments>false</ExportCaseFragments>
+        <ExportTemplateSkins>false</ExportTemplateSkins>
+        <ExportExtractionClassificationData>true</ExportExtractionClassificationData>
+        <ExportGlobalDataModels>false</ExportGlobalDataModels>
+        <ExportProcessDataModels>false</ExportProcessDataModels>
+        <ExportType>CombineAssociatedMaps</ExportType>
+        <Version>0</Version>
+        <ExportServerVariables>true</ExportServerVariables>
+        <XmlExpressionVariables />
+        <PreloadScript>1</PreloadScript>
+        <SleepDuration>0</SleepDuration>
+        <CategoryIds />
+        <ProcessDocument>false</ProcessDocument>
+        <ProcessViewer>false</ProcessViewer>
+        <DotNetActivityType>0</DotNetActivityType>
+        <Projects />
+        <AllProcessVariables />
+        <ExportOnlyDocumentGroupIdentityDetails>false</ExportOnlyDocumentGroupIdentityDetails>
+        <SiteDetailsRequired>false</SiteDetailsRequired>
+        <CmisSiteDetailsRequired>false</CmisSiteDetailsRequired>
+        <DocumentTemplates />
+        <Assets />
+        <PerceptiveSiteDetailsRequired>false</PerceptiveSiteDetailsRequired>
+        <IncludeExportConnectorMappings>false</IncludeExportConnectorMappings>
+        <IncludeDocumentTypeRetentionPolicy>false</IncludeDocumentTypeRetentionPolicy>
+        <ProcessDataModels />
+        <IsSpaExport>false</IsSpaExport>
+        <ProcessType>BusinessProcess</ProcessType>
+        <ProtectedItems />
+        <ExportPageRenditions>false</ExportPageRenditions>
+        <ExportReportingTags>false</ExportReportingTags>
+        <ExportTestPlans>false</ExportTestPlans>
+        <IncludeProcessAssociationsInPackage>false</IncludeProcessAssociationsInPackage>
+        <IsGitExport>false</IsGitExport>
+        <ExcludeCaptureProjectTrainingSets>false</ExcludeCaptureProjectTrainingSets>
+      </ProcessExportOptions>
+      <IsSpaExport>false</IsSpaExport>
+      <ProtectedItems />
+    </FormExportOptions>
+    <Navigations>
+      <NavigationMenuIdentity>
+        <Id>4512DE64FAF14E7CBE9C0C1F6AECADF3</Id>
+        <Name>VetitaMenu</Name>
+        <LastModifiedDate>2025-03-17T09:54:49.647</LastModifiedDate>
+      </NavigationMenuIdentity>
+    </Navigations>
+    <Sites />
+    <Themes />
+    <Languages />
+    <Lookups />
+    <Resources />
+    <Entities />
+    <WorkTypes>
+      <WorkQueueDefinitionIdentity>
+        <Id>DB15789A2756486D8BD5469EBFD59104</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>Home_Loan_Application_Process</Name>
+        <LastModifiedOn>0001-01-01T00:00:00</LastModifiedOn>
+      </WorkQueueDefinitionIdentity>
+    </WorkTypes>
+    <Checklists />
+    <DataModels />
+    <Folders />
+    <ExtractionGroups>
+      <DocumentGroupIdentity>
+        <Id>9822163A0AD445DAA9849796560069ED</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>38</Version>
+        <Name>Verita_Capture</Name>
+      </DocumentGroupIdentity>
+      <DocumentGroupIdentity>
+        <Id>68D764C0B52D447CBBCE1E174CF64123</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>11</Version>
+        <Name>CapTest1</Name>
+      </DocumentGroupIdentity>
+      <DocumentGroupIdentity>
+        <Id>6728C0BD5F744A2EB7B1F5F95BBC210D</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>2</Version>
+        <Name>CapTest2</Name>
+      </DocumentGroupIdentity>
+      <DocumentGroupIdentity>
+        <Id>29B144136B7D4DBEAF3277C012BBB7E6</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>2</Version>
+        <Name>Copilot For Extraction Demo</Name>
+      </DocumentGroupIdentity>
+    </ExtractionGroups>
+    <ClassificationGroups>
+      <ClassificationGroupIdentity>
+        <Id>9822163A0AD445DAA9849796560069ED</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>38</Version>
+        <Name>Verita_Capture</Name>
+      </ClassificationGroupIdentity>
+      <ClassificationGroupIdentity>
+        <Id>68D764C0B52D447CBBCE1E174CF64123</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>11</Version>
+        <Name>CapTest1</Name>
+      </ClassificationGroupIdentity>
+      <ClassificationGroupIdentity>
+        <Id>6728C0BD5F744A2EB7B1F5F95BBC210D</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>2</Version>
+        <Name>CapTest2</Name>
+      </ClassificationGroupIdentity>
+      <ClassificationGroupIdentity>
+        <Id>29B144136B7D4DBEAF3277C012BBB7E6</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>2</Version>
+        <Name>Copilot For Extraction Demo</Name>
+      </ClassificationGroupIdentity>
+    </ClassificationGroups>
+    <Formatters />
+    <FieldValidators />
+    <ChecklistItems />
+    <Events />
+    <Targets />
+    <Alerts />
+    <AlertExportOption>
+      <ExportAssociatedProcess>false</ExportAssociatedProcess>
+    </AlertExportOption>
+    <Categories>
+      <CategoryIdentity>
+        <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>Default Category</Name>
+        <Description />
+      </CategoryIdentity>
+      <CategoryIdentity>
+        <Id>344A414418D94476B6D048CBC2580B72</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>Verita-Tungston</Name>
+        <Description />
+      </CategoryIdentity>
+      <CategoryIdentity>
+        <Id>E2A1706B60424707B39A1BDDDC8DB69C</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>TotalAgility Forms</Name>
+        <Description />
+      </CategoryIdentity>
+    </Categories>
+    <ScanVrsProfiles>
+      <ScanVrsProfileIdentity>
+        <Id>278985F37644523ADBA102221A49357E</Id>
+        <Name>QuickCapture</Name>
+      </ScanVrsProfileIdentity>
+      <ScanVrsProfileIdentity>
+        <Id>C51256840A45605473691437A47E6DA2</Id>
+        <Name>Standard 300 With VRS</Name>
+      </ScanVrsProfileIdentity>
+    </ScanVrsProfiles>
+    <PdfGenerationProfiles />
+    <DocumentConversionProfiles>
+      <DocumentConversionProfileIdentity>
+        <Id>5F93596387AA3216A8DA67924DFB0509</Id>
+        <Name>TIFF 300</Name>
+      </DocumentConversionProfileIdentity>
+    </DocumentConversionProfiles>
+    <BarcodePatchcodeProfiles />
+    <JobSchedules />
+    <RegularExpressions />
+    <Personas />
+    <SeparationProfiles />
+    <Queries />
+    <ShowProcessAssociations>false</ShowProcessAssociations>
+    <ShowFormAssociations>false</ShowFormAssociations>
+    <SystemExportOptions>
+      <IncludeNoteTypes>false</IncludeNoteTypes>
+      <IncludeHotKeys>false</IncludeHotKeys>
+      <IncludePageRenditions>false</IncludePageRenditions>
+      <IncludeNodeColors>false</IncludeNodeColors>
+      <IncludeReportingTags>false</IncludeReportingTags>
+      <IncludeErrorCodes>false</IncludeErrorCodes>
+    </SystemExportOptions>
+    <ShowCategoryAssociations>false</ShowCategoryAssociations>
+    <Packages />
+    <ProtectedItemsData>
+      <ProtectAllItems>false</ProtectAllItems>
+      <ProtectedItems />
+    </ProtectedItemsData>
+    <DocumentTypeVariantCollection />
+    <MissingAssociations />
+    <IncludeRoleMembers>false</IncludeRoleMembers>
+    <IncludeDevices>false</IncludeDevices>
+    <IncludeDeviceProfiles>false</IncludeDeviceProfiles>
+    <IncludeDeviceSettings>false</IncludeDeviceSettings>
+    <Deployments />
+    <ErrorList />
+    <CaptureControlLayouts />
+    <CustomServiceIdentities />
+    <CustomServiceGroupIdentities />
+    <CaptureSolutionIdentity>
+      <Id />
+      <Name />
+      <Version>0</Version>
+    </CaptureSolutionIdentity>
+    <ImportConnections />
+    <ImportSources />
+    <OAuthServers />
+    <QuickApp>
+      <Id />
+      <Name />
+      <Version>0</Version>
+      <AppType>QuickWorkflow</AppType>
+    </QuickApp>
+    <PackageItemAssociations>
+      <PackageItemAssociation>
+        <Id>32E64842FCFB2D73B08892AE5350AD28</Id>
+        <Name />
+        <ItemType>0</ItemType>
+        <AssociatedItems>
+          <AssociatedItem>
+            <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+            <ItemType>28</ItemType>
+            <Name>Default Category</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>32E64842FCFB2D73B08892AE5350AD28</Id>
+            <ItemType>0</ItemType>
+            <Name>AITest</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>SPP_SYSTEM_SESSION_ID</Id>
+            <ItemType>35</ItemType>
+            <Name />
+          </AssociatedItem>
+        </AssociatedItems>
+      </PackageItemAssociation>
+      <PackageItemAssociation>
+        <Id>67D0F145671206E3DE931768AFC34199</Id>
+        <Name />
+        <ItemType>0</ItemType>
+        <AssociatedItems>
+          <AssociatedItem>
+            <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+            <ItemType>28</ItemType>
+            <Name>Default Category</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>67D0F145671206E3DE931768AFC34199</Id>
+            <ItemType>0</ItemType>
+            <Name>AutoEmailReply</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>SPP_SMTP_SERVER</Id>
+            <ItemType>35</ItemType>
+            <Name />
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>SPP_SYSTEM_SESSION_ID</Id>
+            <ItemType>35</ItemType>
+            <Name />
+          </AssociatedItem>
+        </AssociatedItems>
+      </PackageItemAssociation>
+      <PackageItemAssociation>
+        <Id>A073F7E3A754159439C3BCF6E1DBBECC</Id>
+        <Name />
+        <ItemType>0</ItemType>
+        <AssociatedItems>
+          <AssociatedItem>
+            <Id>61244E5906924759A1ED5840FE40A64B</Id>
+            <ItemType>3</ItemType>
+            <Name>JanainnaVeritaLogo.jpg</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>F56BF0CB617F4795B00269DBC3E9C82E</Id>
+            <ItemType>3</ItemType>
+            <Name>colored_view_icon.png</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>C5C8B0EBA92E4903B25EEA493C75759F</Id>
+            <ItemType>3</ItemType>
+            <Name>Exception.png</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>C9E532DE58A9439C9F59380AE97C2B9D</Id>
+            <ItemType>3</ItemType>
+            <Name>Search_Icon_Gray.png</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>ADB9D5312CAA45AEA1C48E7AFD837C35</Id>
+            <ItemType>3</ItemType>
+            <Name>New.png</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>344A414418D94476B6D048CBC2580B72</Id>
+            <ItemType>28</ItemType>
+            <Name>Verita-Tungston</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+            <ItemType>28</ItemType>
+            <Name>Default Category</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>E2A1706B60424707B39A1BDDDC8DB69C</Id>
+            <ItemType>28</ItemType>
+            <Name>TotalAgility Forms</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>9822163A0AD445DAA9849796560069ED</Id>
+            <ItemType>16</ItemType>
+            <Name>Verita_Capture</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>161F8F818093437482D2886B7B6756BB</Id>
+            <ItemType>36</ItemType>
+            <Name>SESSION_ID</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>1E70BD400456422DBFA431767DC6CB0F</Id>
+            <ItemType>36</ItemType>
+            <Name>WORKQUEUE_FORM</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>335EB90FFB0105025E53B26181A9BE95</Id>
+            <ItemType>36</ItemType>
+            <Name>CustomDB</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>9822163A0AD445DAA9849796560069ED</Id>
+            <ItemType>18</ItemType>
+            <Name>Verita_Capture</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>FFA4355FC2AD42B59192BE5910BC647B</Id>
+            <ItemType>6</ItemType>
+            <Name>Bankrupcy_Verification_Validation</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>461CE5A7F1F34E9C9B389A5EC8CAC133</Id>
+            <ItemType>6</ItemType>
+            <Name>VeritaHeader</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>349F96D759154459B2FBFD9CF8D16A8F</Id>
+            <ItemType>6</ItemType>
+            <Name>ProterraDocs_Validation_xx</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>CCAF100BC35047F0BC179106D42935B3</Id>
+            <ItemType>6</ItemType>
+            <Name>ViewProterraRow</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>F7A10B9E31F64FC484C8F38E7CBE77E1</Id>
+            <ItemType>6</ItemType>
+            <Name>ClaimsDocs_Validation_xx</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>34FE9DBD99884722A7C72A67EBE463A2</Id>
+            <ItemType>6</ItemType>
+            <Name>ClaimsRelatedDocs</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>AC2C77BE6753484BB2A73242F69A0D68</Id>
+            <ItemType>6</ItemType>
+            <Name>MVCDocs_Validation_xx</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>EA5547A5BA59475986760D335C3DFC69</Id>
+            <ItemType>6</ItemType>
+            <Name>ContractLookup</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>4512DE64FAF14E7CBE9C0C1F6AECADF3</Id>
+            <ItemType>7</ItemType>
+            <Name>VetitaMenu</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>A073F7E3A754159439C3BCF6E1DBBECC</Id>
+            <ItemType>0</ItemType>
+            <Name>Bankrupcy_Verification</Name>
+          </AssociatedItem>
+        </AssociatedItems>
+      </PackageItemAssociation>
+      <PackageItemAssociation>
+        <Id>6B60E386214140E78A0982AA19C8E917</Id>
+        <Name />
+        <ItemType>0</ItemType>
+        <AssociatedItems>
+          <AssociatedItem>
+            <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+            <ItemType>28</ItemType>
+            <Name>Default Category</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>68D764C0B52D447CBBCE1E174CF64123</Id>
+            <ItemType>16</ItemType>
+            <Name>CapTest1</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>161F8F818093437482D2886B7B6756BB</Id>
+            <ItemType>36</ItemType>
+            <Name>SESSION_ID</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>1E70BD400456422DBFA431767DC6CB0F</Id>
+            <ItemType>36</ItemType>
+            <Name>WORKQUEUE_FORM</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>68D764C0B52D447CBBCE1E174CF64123</Id>
+            <ItemType>18</ItemType>
+            <Name>CapTest1</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>CAF84DC32AA7432A9DC6E471A43E40A0</Id>
+            <ItemType>6</ItemType>
+            <Name>CapTest1_Scan3</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>8141DA5ED3264275BA67295AE0901B0F</Id>
+            <ItemType>6</ItemType>
+            <Name>CapTest1_Validation</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>6B60E386214140E78A0982AA19C8E917</Id>
+            <ItemType>0</ItemType>
+            <Name>CapTest1</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>278985F37644523ADBA102221A49357E</Id>
+            <ItemType>31</ItemType>
+            <Name>QuickCapture</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>SPP_SYSTEM_SESSION_ID</Id>
+            <ItemType>35</ItemType>
+            <Name />
+          </AssociatedItem>
+        </AssociatedItems>
+      </PackageItemAssociation>
+      <PackageItemAssociation>
+        <Id>2701AB3025E44760ADB5F3A2921EB69B</Id>
+        <Name />
+        <ItemType>0</ItemType>
+        <AssociatedItems>
+          <AssociatedItem>
+            <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+            <ItemType>28</ItemType>
+            <Name>Default Category</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>6728C0BD5F744A2EB7B1F5F95BBC210D</Id>
+            <ItemType>16</ItemType>
+            <Name>CapTest2</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>161F8F818093437482D2886B7B6756BB</Id>
+            <ItemType>36</ItemType>
+            <Name>SESSION_ID</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>1E70BD400456422DBFA431767DC6CB0F</Id>
+            <ItemType>36</ItemType>
+            <Name>WORKQUEUE_FORM</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>6728C0BD5F744A2EB7B1F5F95BBC210D</Id>
+            <ItemType>18</ItemType>
+            <Name>CapTest2</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>A2EAAAC9A0F34F5BA28F29A8E9402151</Id>
+            <ItemType>6</ItemType>
+            <Name>CapTest2_Scan</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>17BD326F133D48CF9CEAC0C13E240BAF</Id>
+            <ItemType>6</ItemType>
+            <Name>CapTest2_Validation</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>2701AB3025E44760ADB5F3A2921EB69B</Id>
+            <ItemType>0</ItemType>
+            <Name>CapTest2</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>278985F37644523ADBA102221A49357E</Id>
+            <ItemType>31</ItemType>
+            <Name>QuickCapture</Name>
+          </AssociatedItem>
+        </AssociatedItems>
+      </PackageItemAssociation>
+      <PackageItemAssociation>
+        <Id>245A73BBCFDA970D3E624B8589E7F483</Id>
+        <Name />
+        <ItemType>0</ItemType>
+        <AssociatedItems>
+          <AssociatedItem>
+            <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+            <ItemType>28</ItemType>
+            <Name>Default Category</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>245A73BBCFDA970D3E624B8589E7F483</Id>
+            <ItemType>0</ItemType>
+            <Name>checkfile</Name>
+          </AssociatedItem>
+        </AssociatedItems>
+      </PackageItemAssociation>
+      <PackageItemAssociation>
+        <Id>D82B360A49AB007538D84EB4D7911BB7</Id>
+        <Name />
+        <ItemType>0</ItemType>
+        <AssociatedItems>
+          <AssociatedItem>
+            <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+            <ItemType>28</ItemType>
+            <Name>Default Category</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>D82B360A49AB007538D84EB4D7911BB7</Id>
+            <ItemType>0</ItemType>
+            <Name>Claude</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>SPP_SYSTEM_SESSION_ID</Id>
+            <ItemType>35</ItemType>
+            <Name />
+          </AssociatedItem>
+        </AssociatedItems>
+      </PackageItemAssociation>
+      <PackageItemAssociation>
+        <Id>ABE601C76C51436EA17142A056EFDFEC</Id>
+        <Name />
+        <ItemType>0</ItemType>
+        <AssociatedItems>
+          <AssociatedItem>
+            <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+            <ItemType>28</ItemType>
+            <Name>Default Category</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>29B144136B7D4DBEAF3277C012BBB7E6</Id>
+            <ItemType>16</ItemType>
+            <Name>Copilot For Quick Capture Demo</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>161F8F818093437482D2886B7B6756BB</Id>
+            <ItemType>36</ItemType>
+            <Name>SESSION_ID</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>29B144136B7D4DBEAF3277C012BBB7E6</Id>
+            <ItemType>18</ItemType>
+            <Name>Copilot For Extraction Demo</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>DBAC4F11A41E4D77B39FB588ED70C7C3</Id>
+            <ItemType>6</ItemType>
+            <Name>Copilot For Quick Capture Demo_Scan</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>ABE601C76C51436EA17142A056EFDFEC</Id>
+            <ItemType>0</ItemType>
+            <Name>Copilot For Quick Capture Demo</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>278985F37644523ADBA102221A49357E</Id>
+            <ItemType>31</ItemType>
+            <Name>QuickCapture</Name>
+          </AssociatedItem>
+        </AssociatedItems>
+      </PackageItemAssociation>
+      <PackageItemAssociation>
+        <Id>4228510FAF663E5F6A4DDC3341B28ADA</Id>
+        <Name />
+        <ItemType>0</ItemType>
+        <AssociatedItems>
+          <AssociatedItem>
+            <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+            <ItemType>28</ItemType>
+            <Name>Default Category</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>4228510FAF663E5F6A4DDC3341B28ADA</Id>
+            <ItemType>0</ItemType>
+            <Name>CreateAndMove</Name>
+          </AssociatedItem>
+        </AssociatedItems>
+      </PackageItemAssociation>
+      <PackageItemAssociation>
+        <Id>971B60A53A73CA972F04725E03C0C7B4</Id>
+        <Name />
+        <ItemType>0</ItemType>
+        <AssociatedItems>
+          <AssociatedItem>
+            <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+            <ItemType>28</ItemType>
+            <Name>Default Category</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>971B60A53A73CA972F04725E03C0C7B4</Id>
+            <ItemType>0</ItemType>
+            <Name>Empty2</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>SPP_SYSTEM_SESSION_ID</Id>
+            <ItemType>35</ItemType>
+            <Name />
+          </AssociatedItem>
+        </AssociatedItems>
+      </PackageItemAssociation>
+      <PackageItemAssociation>
+        <Id>3A55A96FFF399BB1D8357AADD8920D56</Id>
+        <Name />
+        <ItemType>0</ItemType>
+        <AssociatedItems>
+          <AssociatedItem>
+            <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+            <ItemType>28</ItemType>
+            <Name>Default Category</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>FC4A7E347D984994B76C942BFFCDF07B</Id>
+            <ItemType>47</ItemType>
+            <Name />
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>3A55A96FFF399BB1D8357AADD8920D56</Id>
+            <ItemType>0</ItemType>
+            <Name>EmptyException</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>SPP_SYSTEM_SESSION_ID</Id>
+            <ItemType>35</ItemType>
+            <Name />
+          </AssociatedItem>
+        </AssociatedItems>
+      </PackageItemAssociation>
+      <PackageItemAssociation>
+        <Id>88CB11B2D1965AF60425043795156011</Id>
+        <Name />
+        <ItemType>0</ItemType>
+        <AssociatedItems>
+          <AssociatedItem>
+            <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+            <ItemType>28</ItemType>
+            <Name>Default Category</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>FC4A7E347D984994B76C942BFFCDF07B</Id>
+            <ItemType>47</ItemType>
+            <Name />
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>88CB11B2D1965AF60425043795156011</Id>
+            <ItemType>0</ItemType>
+            <Name>EmptyProcess</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>SPP_SYSTEM_SESSION_ID</Id>
+            <ItemType>35</ItemType>
+            <Name />
+          </AssociatedItem>
+        </AssociatedItems>
+      </PackageItemAssociation>
+      <PackageItemAssociation>
+        <Id>C51F1F2AEB15445499D305276F8A17D3</Id>
+        <Name />
+        <ItemType>0</ItemType>
+        <AssociatedItems>
+          <AssociatedItem>
+            <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+            <ItemType>28</ItemType>
+            <Name>Default Category</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>161F8F818093437482D2886B7B6756BB</Id>
+            <ItemType>36</ItemType>
+            <Name>SESSION_ID</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>1F1E0330D0CA4A3F932533E384FCA8BF</Id>
+            <ItemType>6</ItemType>
+            <Name>Home Loan Application ProcessCNJ</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>C51F1F2AEB15445499D305276F8A17D3</Id>
+            <ItemType>0</ItemType>
+            <Name>Home Loan Application Process</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>DB15789A2756486D8BD5469EBFD59104</Id>
+            <ItemType>23</ItemType>
+            <Name>Home_Loan_Application_Process</Name>
+          </AssociatedItem>
+        </AssociatedItems>
+      </PackageItemAssociation>
+      <PackageItemAssociation>
+        <Id>A57D317216D24DDF83D8231F862114A8</Id>
+        <Name />
+        <ItemType>0</ItemType>
+        <AssociatedItems>
+          <AssociatedItem>
+            <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+            <ItemType>28</ItemType>
+            <Name>Default Category</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>FC4A7E347D984994B76C942BFFCDF07B</Id>
+            <ItemType>47</ItemType>
+            <Name />
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>5F93596387AA3216A8DA67924DFB0509</Id>
+            <ItemType>34</ItemType>
+            <Name>TIFF 300</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>A57D317216D24DDF83D8231F862114A8</Id>
+            <ItemType>0</ItemType>
+            <Name>Image Conversion</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>C51256840A45605473691437A47E6DA2</Id>
+            <ItemType>31</ItemType>
+            <Name>Standard 300 With VRS</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>SPP_SYSTEM_SESSION_ID</Id>
+            <ItemType>35</ItemType>
+            <Name />
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>DEFAULTTRUE</Id>
+            <ItemType>35</ItemType>
+            <Name />
+          </AssociatedItem>
+        </AssociatedItems>
+      </PackageItemAssociation>
+      <PackageItemAssociation>
+        <Id>4A120FFB25E2D4140F83B511FA66C8C9</Id>
+        <Name />
+        <ItemType>0</ItemType>
+        <AssociatedItems>
+          <AssociatedItem>
+            <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+            <ItemType>28</ItemType>
+            <Name>Default Category</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>4A120FFB25E2D4140F83B511FA66C8C9</Id>
+            <ItemType>0</ItemType>
+            <Name>LI1</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>SPP_SYSTEM_SESSION_ID</Id>
+            <ItemType>35</ItemType>
+            <Name />
+          </AssociatedItem>
+        </AssociatedItems>
+      </PackageItemAssociation>
+      <PackageItemAssociation>
+        <Id>931B53760F002BFE3A53431261D0F0FB</Id>
+        <Name />
+        <ItemType>0</ItemType>
+        <AssociatedItems>
+          <AssociatedItem>
+            <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+            <ItemType>28</ItemType>
+            <Name>Default Category</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>931B53760F002BFE3A53431261D0F0FB</Id>
+            <ItemType>0</ItemType>
+            <Name>man1</Name>
+          </AssociatedItem>
+        </AssociatedItems>
+      </PackageItemAssociation>
+      <PackageItemAssociation>
+        <Id>8A929F49C89E7EBC246E4B4C9388BDF6</Id>
+        <Name />
+        <ItemType>0</ItemType>
+        <AssociatedItems>
+          <AssociatedItem>
+            <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+            <ItemType>28</ItemType>
+            <Name>Default Category</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>8A929F49C89E7EBC246E4B4C9388BDF6</Id>
+            <ItemType>0</ItemType>
+            <Name>New process</Name>
+          </AssociatedItem>
+        </AssociatedItems>
+      </PackageItemAssociation>
+      <PackageItemAssociation>
+        <Id>30F360953A75EED8D2E0AD19810AD1B5</Id>
+        <Name />
+        <ItemType>0</ItemType>
+        <AssociatedItems>
+          <AssociatedItem>
+            <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+            <ItemType>28</ItemType>
+            <Name>Default Category</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>30F360953A75EED8D2E0AD19810AD1B5</Id>
+            <ItemType>0</ItemType>
+            <Name>OtherDocProcess</Name>
+          </AssociatedItem>
+        </AssociatedItems>
+      </PackageItemAssociation>
+      <PackageItemAssociation>
+        <Id>99DBD5699726E7D82544647205F378DA</Id>
+        <Name />
+        <ItemType>0</ItemType>
+        <AssociatedItems>
+          <AssociatedItem>
+            <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+            <ItemType>28</ItemType>
+            <Name>Default Category</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>99DBD5699726E7D82544647205F378DA</Id>
+            <ItemType>0</ItemType>
+            <Name>SignDoc Test</Name>
+          </AssociatedItem>
+        </AssociatedItems>
+      </PackageItemAssociation>
+      <PackageItemAssociation>
+        <Id>3BFCB72A01C88FD1A9FF39FF6F0DC93A</Id>
+        <Name />
+        <ItemType>0</ItemType>
+        <AssociatedItems>
+          <AssociatedItem>
+            <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+            <ItemType>28</ItemType>
+            <Name>Default Category</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>3BFCB72A01C88FD1A9FF39FF6F0DC93A</Id>
+            <ItemType>0</ItemType>
+            <Name>Temp_Sec</Name>
+          </AssociatedItem>
+        </AssociatedItems>
+      </PackageItemAssociation>
+      <PackageItemAssociation>
+        <Id>8BAF9814CFFF1AF55CC5AA9493B521D1</Id>
+        <Name />
+        <ItemType>0</ItemType>
+        <AssociatedItems>
+          <AssociatedItem>
+            <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+            <ItemType>28</ItemType>
+            <Name>Default Category</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>FC4A7E347D984994B76C942BFFCDF07B</Id>
+            <ItemType>47</ItemType>
+            <Name />
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>8BAF9814CFFF1AF55CC5AA9493B521D1</Id>
+            <ItemType>0</ItemType>
+            <Name>test_import</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>SPP_SYSTEM_SESSION_ID</Id>
+            <ItemType>35</ItemType>
+            <Name />
+          </AssociatedItem>
+        </AssociatedItems>
+      </PackageItemAssociation>
+      <PackageItemAssociation>
+        <Id>9CD43289927984AA3ACF215A70ACBDB0</Id>
+        <Name />
+        <ItemType>0</ItemType>
+        <AssociatedItems>
+          <AssociatedItem>
+            <Id>B9EAE9F6F0124E9692A47D071317E59D</Id>
+            <ItemType>1</ItemType>
+            <Name>BR_UpdateActivityResource</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+            <ItemType>28</ItemType>
+            <Name>Default Category</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>FC4A7E347D984994B76C942BFFCDF07B</Id>
+            <ItemType>47</ItemType>
+            <Name />
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>9CD43289927984AA3ACF215A70ACBDB0</Id>
+            <ItemType>0</ItemType>
+            <Name>TP_UpdateActivity</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>SPP_SYSTEM_SESSION_ID</Id>
+            <ItemType>35</ItemType>
+            <Name />
+          </AssociatedItem>
+        </AssociatedItems>
+      </PackageItemAssociation>
+      <PackageItemAssociation>
+        <Id>3916DC3B5F409EF24921A709E5B12CE8</Id>
+        <Name />
+        <ItemType>0</ItemType>
+        <AssociatedItems>
+          <AssociatedItem>
+            <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+            <ItemType>28</ItemType>
+            <Name>Default Category</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>3916DC3B5F409EF24921A709E5B12CE8</Id>
+            <ItemType>0</ItemType>
+            <Name>TP1</Name>
+          </AssociatedItem>
+        </AssociatedItems>
+      </PackageItemAssociation>
+      <PackageItemAssociation>
+        <Id>163653835D521A5E5C5274CC242F96EF</Id>
+        <Name />
+        <ItemType>0</ItemType>
+        <AssociatedItems>
+          <AssociatedItem>
+            <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+            <ItemType>28</ItemType>
+            <Name>Default Category</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>163653835D521A5E5C5274CC242F96EF</Id>
+            <ItemType>0</ItemType>
+            <Name>tp2</Name>
+          </AssociatedItem>
+        </AssociatedItems>
+      </PackageItemAssociation>
+      <PackageItemAssociation>
+        <Id>FEB8AC82AAB2D1D803E9EA61F652B17D</Id>
+        <Name />
+        <ItemType>0</ItemType>
+        <AssociatedItems>
+          <AssociatedItem>
+            <Id>344A414418D94476B6D048CBC2580B72</Id>
+            <ItemType>28</ItemType>
+            <Name>Verita-Tungston</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+            <ItemType>28</ItemType>
+            <Name>Default Category</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>9822163A0AD445DAA9849796560069ED</Id>
+            <ItemType>16</ItemType>
+            <Name>Verita_Capture</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>9822163A0AD445DAA9849796560069ED</Id>
+            <ItemType>18</ItemType>
+            <Name>Verita_Capture</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>FEB8AC82AAB2D1D803E9EA61F652B17D</Id>
+            <ItemType>0</ItemType>
+            <Name>TranslateProcess</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>SPP_SYSTEM_SESSION_ID</Id>
+            <ItemType>35</ItemType>
+            <Name />
+          </AssociatedItem>
+        </AssociatedItems>
+      </PackageItemAssociation>
+      <PackageItemAssociation>
+        <Id>38B143893F275D0D202E0FFFAF2A18D2</Id>
+        <Name />
+        <ItemType>0</ItemType>
+        <AssociatedItems>
+          <AssociatedItem>
+            <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+            <ItemType>28</ItemType>
+            <Name>Default Category</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>38B143893F275D0D202E0FFFAF2A18D2</Id>
+            <ItemType>0</ItemType>
+            <Name>Verita_Get_Email_Questions</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>SPP_SYSTEM_SESSION_ID</Id>
+            <ItemType>35</ItemType>
+            <Name />
+          </AssociatedItem>
+        </AssociatedItems>
+      </PackageItemAssociation>
+    </PackageItemAssociations>
+    <GlobalVariables>
+      <SessionVariableIdentity>
+        <Name>SESSION_ID</Name>
+        <Id>161F8F818093437482D2886B7B6756BB</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+      </SessionVariableIdentity>
+      <SessionVariableIdentity>
+        <Name>WORKQUEUE_FORM</Name>
+        <Id>1E70BD400456422DBFA431767DC6CB0F</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+      </SessionVariableIdentity>
+      <SessionVariableIdentity>
+        <Name>CustomDB</Name>
+        <Id>335EB90FFB0105025E53B26181A9BE95</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+      </SessionVariableIdentity>
+    </GlobalVariables>
+    <ServerVariables>
+      <VariableIdentity>
+        <Id>SPP_SYSTEM_SESSION_ID</Id>
+        <Version>0</Version>
+        <OwnerId />
+        <DisplayName>SPP_SYSTEM_SESSION_ID</DisplayName>
+        <Name />
+      </VariableIdentity>
+      <VariableIdentity>
+        <Id>SPP_SMTP_SERVER</Id>
+        <Version>0</Version>
+        <OwnerId />
+        <DisplayName>SPP_SMTP_SERVER</DisplayName>
+        <Name />
+      </VariableIdentity>
+      <VariableIdentity>
+        <Id>DEFAULTTRUE</Id>
+        <Version>0</Version>
+        <OwnerId />
+        <DisplayName>DefaultTrue</DisplayName>
+        <Name />
+      </VariableIdentity>
+    </ServerVariables>
+    <DotNetReferences>
+      <DotNetReferenceIdentity>
+        <ReferenceId>FC4A7E347D984994B76C942BFFCDF07B</ReferenceId>
+        <ReferencePath>TotalAgility.Sdk.dll</ReferencePath>
+        <ReferenceType>0</ReferenceType>
+        <ReferenceName />
+      </DotNetReferenceIdentity>
+    </DotNetReferences>
+    <CurrencyCodes />
+    <QuickAppType>QuickWorkflow</QuickAppType>
+  </Data>
+  <Comments />
+  <ResourceAccessTokens>
+    <ResourceAccess>
+      <ResourceIdentity>
+        <Id>7DF43CCDF24611D2804B00104B71BD15</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>Everyone</Name>
+        <ResourceType>GroupOfWorkers</ResourceType>
+        <EmailAddress />
+        <UserId />
+        <ManagerialLevel>0</ManagerialLevel>
+      </ResourceIdentity>
+      <AccessType>MaintenanceAccess</AccessType>
+      <PermissionType>FullControl</PermissionType>
+    </ResourceAccess>
+  </ResourceAccessTokens>
+  <PermissionType>NoAccess</PermissionType>
+  <SpaPackageType>Default</SpaPackageType>
+</SpaPackage>
