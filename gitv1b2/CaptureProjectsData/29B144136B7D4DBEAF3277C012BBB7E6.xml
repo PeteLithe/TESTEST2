@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ProjectInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identity>
+    <Id>29B144136B7D4DBEAF3277C012BBB7E6</Id>
+    <Version>2</Version>
+    <Name>Copilot For Extraction Demo</Name>
+  </Identity>
+  <Category>
+    <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Default Category</Name>
+    <Description />
+  </Category>
+  <Name>Copilot For Extraction Demo</Name>
+  <Description />
+  <Status>Released</Status>
+  <LastModifiedProjectFile>2024-06-25T02:23:11.323</LastModifiedProjectFile>
+  <LastModifiedProjectFolderZip>2024-06-25T02:23:10.007</LastModifiedProjectFolderZip>
+  <LastModifiedUser>
+    <Id>1449EC114C3BC751B5F5D73608203364</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name />
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LastModifiedUser>
+  <OnlineLearningFolderId />
+  <ProjectType>Shared</ProjectType>
+  <IsOnlineLearningEnabled>true</IsOnlineLearningEnabled>
+  <IsSeparationEnabled>false</IsSeparationEnabled>
+  <LockedByModule>None</LockedByModule>
+  <IsSimpleProject>false</IsSimpleProject>
+  <TrainingSetPath />
+  <UsedLicenseFeatures>None</UsedLicenseFeatures>
+  <IsReadOnly>false</IsReadOnly>
+  <DoUpgrade>false</DoUpgrade>
+  <CustomVersion>0</CustomVersion>
+  <IsLimitedToOnlineLearning>false</IsLimitedToOnlineLearning>
+  <IsCaptureSolutionProject>true</IsCaptureSolutionProject>
+  <QuickClassificationBaseDocTypeId>E2C449AAF04F47A7A553622D3FA23E22</QuickClassificationBaseDocTypeId>
+  <SourceControlStatus>NotInSourceControl</SourceControlStatus>
+</ProjectInfo>

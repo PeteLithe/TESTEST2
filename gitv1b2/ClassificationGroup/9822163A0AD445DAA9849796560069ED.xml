@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ClassificationGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identity>
+    <Id>9822163A0AD445DAA9849796560069ED</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Version>38</Version>
+    <Name>Verita_Capture</Name>
+  </Identity>
+  <Name>Verita_Capture</Name>
+  <Description />
+  <Status>Released</Status>
+  <IsShared>true</IsShared>
+  <Category>
+    <Id>344A414418D94476B6D048CBC2580B72</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Verita-Tungston</Name>
+    <Description />
+  </Category>
+  <DocumentGroups>
+    <DocumentGroupIdentity>
+      <Id>9822163A0AD445DAA9849796560069ED</Id>
+      <AutomaticallyPopulate>true</AutomaticallyPopulate>
+      <Version>38</Version>
+      <Name>Verita_Capture</Name>
+    </DocumentGroupIdentity>
+  </DocumentGroups>
+  <LastModifiedDate>2025-04-08T08:33:31.507</LastModifiedDate>
+  <LastModifiedUser>
+    <Id>A352BC1D13794DDC9252C458EAF843DB</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LastModifiedUser>
+  <LockedByModule>None</LockedByModule>
+  <ClassificationOnlineLearningEnabled>true</ClassificationOnlineLearningEnabled>
+  <ClassificationMaxDocCount>2000</ClassificationMaxDocCount>
+  <ResourceAccessTokens>
+    <ResourceAccess>
+      <ResourceIdentity>
+        <Id>7DF43CCDF24611D2804B00104B71BD15</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>Everyone</Name>
+        <ResourceType>GroupOfWorkers</ResourceType>
+        <EmailAddress />
+        <UserId />
+        <ManagerialLevel>0</ManagerialLevel>
+      </ResourceIdentity>
+      <AccessType>MaintenanceAccess</AccessType>
+      <PermissionType>FullControl</PermissionType>
+    </ResourceAccess>
+  </ResourceAccessTokens>
+  <ResourcePermissionType>NoAccess</ResourcePermissionType>
+  <OverwriteDocumentTypes>false</OverwriteDocumentTypes>
+  <OverwrittenDocumentTypes />
+</ClassificationGroup>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BusinessRule xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identity>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Id>B9EAE9F6F0124E9692A47D071317E59D</Id>
+    <Name>BR_UpdateActivityResource</Name>
+    <Version>2</Version>
+    <ProcessId />
+  </Identity>
+  <LatestVersion>false</LatestVersion>
+  <Version>2</Version>
+  <ProcessIdentity>
+    <Id>7C9EC4FA8E86BC35494DA4B0F691DBEE</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Version>2</Version>
+    <Name>BR_UpdateActivityResource</Name>
+  </ProcessIdentity>
+  <RuleType>Process</RuleType>
+  <CategoryIdentity>
+    <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name />
+    <Description />
+  </CategoryIdentity>
+  <LastModifiedUserName>Pete</LastModifiedUserName>
+  <FlaggedForRelease>false</FlaggedForRelease>
+  <CurrentRuleView>Released</CurrentRuleView>
+  <IsRuleInUse>false</IsRuleInUse>
+  <LastModifiedUser>FE9CC44B98BA4A36ADDB30D822699177</LastModifiedUser>
+  <LastModifiedDate>2024-10-10T17:36:31.223</LastModifiedDate>
+  <WIPRuleData>
+    <decisiontabledata>
+      <HitPolicyType>First</HitPolicyType>
+      <ShowOnTableVariables />
+      <CollectPolicyOperator>None</CollectPolicyOperator>
+      <ErrorCodeVariableCollection />
+      <DigitalAssistantRuleDataConfigurationCollection />
+    </decisiontabledata>
+  </WIPRuleData>
+  <ReleaseRuleData>
+    <inputs>
+      <name>JOBID</name>
+      <type>8</type>
+      <description>JobID</description>
+      <errorCodeMappingType>Static</errorCodeMappingType>
+      <variableAccessScope>Public</variableAccessScope>
+    </inputs>
+    <inputs>
+      <name>NODEID</name>
+      <type>2</type>
+      <description>NodeID</description>
+      <errorCodeMappingType>Static</errorCodeMappingType>
+      <variableAccessScope>Public</variableAccessScope>
+    </inputs>
+    <inputs>
+      <name>EPC</name>
+      <type>2</type>
+      <description>EPC</description>
+      <errorCodeMappingType>Static</errorCodeMappingType>
+      <variableAccessScope>Public</variableAccessScope>
+    </inputs>
+    <inputs>
+      <name>ACTIVITYNAME</name>
+      <type>8</type>
+      <description>ActivityName</description>
+      <errorCodeMappingType>Static</errorCodeMappingType>
+      <variableAccessScope>Public</variableAccessScope>
+    </inputs>
+    <businessrulecalculations />
+    <decisiontabledata>
+      <HitPolicyType>First</HitPolicyType>
+      <ShowOnTableVariables />
+      <CollectPolicyOperator>None</CollectPolicyOperator>
+      <ErrorCodeVariableCollection />
+      <DigitalAssistantRuleDataConfigurationCollection />
+    </decisiontabledata>
+  </ReleaseRuleData>
+  <Description />
+  <Rule>
+    <inputs>
+      <name>JOBID</name>
+      <type>8</type>
+      <description>JobID</description>
+      <errorCodeMappingType>Static</errorCodeMappingType>
+      <variableAccessScope>Public</variableAccessScope>
+    </inputs>
+    <inputs>
+      <name>NODEID</name>
+      <type>2</type>
+      <description>NodeID</description>
+      <errorCodeMappingType>Static</errorCodeMappingType>
+      <variableAccessScope>Public</variableAccessScope>
+    </inputs>
+    <inputs>
+      <name>EPC</name>
+      <type>2</type>
+      <description>EPC</description>
+      <errorCodeMappingType>Static</errorCodeMappingType>
+      <variableAccessScope>Public</variableAccessScope>
+    </inputs>
+    <inputs>
+      <name>ACTIVITYNAME</name>
+      <type>8</type>
+      <description>ActivityName</description>
+      <errorCodeMappingType>Static</errorCodeMappingType>
+      <variableAccessScope>Public</variableAccessScope>
+    </inputs>
+    <businessrulecalculations />
+    <decisiontabledata>
+      <HitPolicyType>First</HitPolicyType>
+      <ShowOnTableVariables />
+      <CollectPolicyOperator>None</CollectPolicyOperator>
+      <ErrorCodeVariableCollection />
+      <DigitalAssistantRuleDataConfigurationCollection />
+    </decisiontabledata>
+  </Rule>
+  <SourceControlStatus>NotInSourceControl</SourceControlStatus>
+  <IsNodeExecInTestDebug>false</IsNodeExecInTestDebug>
+</BusinessRule>
