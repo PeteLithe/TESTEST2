@@ -67,6 +67,12 @@
         <Name>New process</Name>
       </ProcessIdentity>
       <ProcessIdentity>
+        <Id>32E64842FCFB2D73B08892AE5350AD28</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>7</Version>
+        <Name>AITest</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
         <Id>99DBD5699726E7D82544647205F378DA</Id>
         <AutomaticallyPopulate>true</AutomaticallyPopulate>
         <Version>2</Version>
@@ -127,6 +133,24 @@
         <Name>Empty2</Name>
       </ProcessIdentity>
       <ProcessIdentity>
+        <Id>163653835D521A5E5C5274CC242F96EF</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>2</Version>
+        <Name>tp2</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
+        <Id>245A73BBCFDA970D3E624B8589E7F483</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>3</Version>
+        <Name>checkfile</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
+        <Id>2701AB3025E44760ADB5F3A2921EB69B</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>2</Version>
+        <Name>CapTest2</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
         <Id>3916DC3B5F409EF24921A709E5B12CE8</Id>
         <AutomaticallyPopulate>true</AutomaticallyPopulate>
         <Version>5</Version>
@@ -155,30 +179,6 @@
         <AutomaticallyPopulate>true</AutomaticallyPopulate>
         <Version>1</Version>
         <Name>LI1</Name>
-      </ProcessIdentity>
-      <ProcessIdentity>
-        <Id>32E64842FCFB2D73B08892AE5350AD28</Id>
-        <AutomaticallyPopulate>true</AutomaticallyPopulate>
-        <Version>4</Version>
-        <Name>AITest</Name>
-      </ProcessIdentity>
-      <ProcessIdentity>
-        <Id>163653835D521A5E5C5274CC242F96EF</Id>
-        <AutomaticallyPopulate>true</AutomaticallyPopulate>
-        <Version>2</Version>
-        <Name>tp2</Name>
-      </ProcessIdentity>
-      <ProcessIdentity>
-        <Id>245A73BBCFDA970D3E624B8589E7F483</Id>
-        <AutomaticallyPopulate>true</AutomaticallyPopulate>
-        <Version>3</Version>
-        <Name>checkfile</Name>
-      </ProcessIdentity>
-      <ProcessIdentity>
-        <Id>2701AB3025E44760ADB5F3A2921EB69B</Id>
-        <AutomaticallyPopulate>true</AutomaticallyPopulate>
-        <Version>2</Version>
-        <Name>CapTest2</Name>
       </ProcessIdentity>
     </Processes>
     <ProcessExportOption>
