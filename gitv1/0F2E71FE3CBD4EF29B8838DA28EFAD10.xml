@@ -159,7 +159,7 @@
       <ProcessIdentity>
         <Id>32E64842FCFB2D73B08892AE5350AD28</Id>
         <AutomaticallyPopulate>true</AutomaticallyPopulate>
-        <Version>3</Version>
+        <Version>4</Version>
         <Name>AITest</Name>
       </ProcessIdentity>
       <ProcessIdentity>
@@ -222,7 +222,7 @@
       <ExportReportingTags>false</ExportReportingTags>
       <ExportTestPlans>false</ExportTestPlans>
       <IncludeProcessAssociationsInPackage>false</IncludeProcessAssociationsInPackage>
-      <IsGitExport>true</IsGitExport>
+      <IsGitExport>false</IsGitExport>
       <ExcludeCaptureProjectTrainingSets>false</ExcludeCaptureProjectTrainingSets>
     </ProcessExportOption>
     <WorkAllocationRules />
@@ -585,6 +585,7 @@
       <Version>0</Version>
       <AppType>QuickWorkflow</AppType>
     </QuickApp>
+    <GitFolderName>gitv1</GitFolderName>
     <PackageItemAssociations>
       <PackageItemAssociation>
         <Id>32E64842FCFB2D73B08892AE5350AD28</Id>
